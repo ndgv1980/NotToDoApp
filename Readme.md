@@ -1,12 +1,24 @@
-\# NotToDoApp
+# NotToDoApp
 
+# To-do-list App (Mobile)
 
+Aplicación móvil para la gestión de tareas pendientes.
 
-Esta aplicación se utiliza para agregar tareas por hacer.
+## Funcionalidades
+- Agregar tareas (nombre, descripción y tipo)
+- Marcar tareas como completadas
+- Eliminar tareas
+- Ver detalles de cada tarea
 
+## Tipos de tarea
+- Trabajo
+- Casa
+- Negocios
 
+## Plataforma
+Aplicación móvil desarrollada como proyecto educativo.
 
-\## Ejecución
+## Ejecución
 
 * Clonar repositorio con git clone.
 * npm install
