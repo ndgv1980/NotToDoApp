@@ -1,5 +1,3 @@
-# NotToDoApp
-
 # To-do-list App (Mobile)
 
 Aplicación móvil para la gestión de tareas pendientes.
